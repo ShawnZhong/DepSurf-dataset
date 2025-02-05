@@ -1,0 +1,16 @@
+{"kind": "INT", "name": "long unsigned int", "size": 8}
+{"kind": "INT", "name": "char", "size": 1}
+{"kind": "INT", "name": "unsigned int", "size": 4}
+{"kind": "INT", "name": "signed char", "size": 1}
+{"kind": "INT", "name": "unsigned char", "size": 1}
+{"kind": "INT", "name": "short int", "size": 2}
+{"kind": "INT", "name": "short unsigned int", "size": 2}
+{"kind": "INT", "name": "int", "size": 4}
+{"kind": "INT", "name": "long long int", "size": 8}
+{"kind": "INT", "name": "long long unsigned int", "size": 8}
+{"kind": "INT", "name": "long int", "size": 8}
+{"kind": "INT", "name": "_Bool", "size": 1}
+{"kind": "INT", "name": "__int128 unsigned", "size": 16}
+{"kind": "INT", "name": "ssizetype", "size": 8}
+{"kind": "INT", "name": "double", "size": 8}
+{"kind": "INT", "name": "float", "size": 4}
