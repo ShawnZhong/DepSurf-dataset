@@ -5,7 +5,7 @@ Dataset for [EuroSys'25](https://2025.eurosys.org/) paper "Revealing the Unstabl
 
 Please refer to the main repo for more details: https://github.com/ShawnZhong/DepSurf
 
-# Format
+## Format
 
 The following examples show the information available in the dataset:
 
