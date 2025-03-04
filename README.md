@@ -15,7 +15,7 @@ The following examples show the information available in the dataset:
 {
     "name": "vfs_read",
     "collision_type": "Unique Global",
-    "inline_type": "Partially inlined",
+    "inline_type": "Selective",
     "funcs": [
         {
             "addr": 18446744071581851376,
